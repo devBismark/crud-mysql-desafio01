@@ -27,6 +27,6 @@ Prática completa de banco de dados relacional com MySQL, cobrindo criação de 
 - MySQL
 - MySQL Workbench
 
----
+----
 
 Desenvolvido por [Bismark](https://github.com/devBismark)
